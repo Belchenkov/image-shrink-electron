@@ -1,0 +1,14 @@
+{
+  "name": "image-shrink",
+  "version": "1.0.0",
+  "description": "Desktop App for optimize images (use Electron.js)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Electron"
+  ],
+  "author": "Aleksey Belchenkov",
+  "license": "ISC"
+}
