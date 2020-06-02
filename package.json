@@ -4,11 +4,14 @@
   "description": "Desktop App for optimize images (use Electron.js)",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "keywords": [
     "Electron"
   ],
   "author": "Aleksey Belchenkov",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.0.1"
+  }
 }
