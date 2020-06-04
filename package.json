@@ -4,7 +4,8 @@
   "description": "Desktop App for optimize images (use Electron.js)",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "dev": "nodemon --exec electron ."
   },
   "keywords": [
     "Electron"
@@ -12,6 +13,7 @@
   "author": "Aleksey Belchenkov",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^9.0.1"
+    "electron": "^9.0.1",
+    "nodemon": "^2.0.4"
   }
 }
