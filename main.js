@@ -63,7 +63,7 @@ const menu = [
             submenu: [
                 {
                     label: 'About',
-                    click: createAboutWindow()
+                    click: createAboutWindow
                 }
             ]
         }
