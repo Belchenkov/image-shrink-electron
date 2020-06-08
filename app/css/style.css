@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap');
 
+body, html {
+	background: url("../../assets/images/bg.png");
+}
+
 h3, h4 {
 	font-family: 'Dancing Script', cursive;
 	font-weight: bold;
