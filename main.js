@@ -21,7 +21,7 @@ function createMainWindow() {
        title: 'ImageShrink',
        width: isDev ? 800 : 500,
        height: 600,
-       icon: './assets/icons/Icon_256x256.png',
+       icon: `${__dirname}/assets/icons/Icon_256x256.png`,
        resizable: !!isDev,
        backgroundColor: 'white',
        webPreferences: {
