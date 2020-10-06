@@ -17,7 +17,7 @@
   "author": "Aleksey Belchenkov",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^9.0.1",
+    "electron": "^9.3.1",
     "electron-packager": "^14.2.1",
     "nodemon": "^2.0.4"
   },
